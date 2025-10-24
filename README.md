@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on **Full Stack Web Development**
 - 🌱 I’m learning **React, Node.js, and MongoDB**
 - 💬 Ask me about **HTML, CSS, JavaScript, and Python**
-- 📫 How to reach me: **[asif20301328shahriar@gmail.com](mailto:asif20301328shahriar@gmail.com)**
+- 📫 How to reach me: **[asif20301328shahriar@gmail.com](mailto:asifshahriar112@gmail.com)**
 - ⚡ Fun fact: I love exploring new technologies and building creative projects!
 
 ---
